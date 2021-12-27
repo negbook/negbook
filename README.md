@@ -1,4 +1,5 @@
 ### Hi there 👋
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=negbook&layout=compact&langs_count=10)
 ![](https://card.exophase.com/2/0/129034.png?1640596912?28344217)
 
 <!--
