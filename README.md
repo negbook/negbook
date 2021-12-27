@@ -1,5 +1,5 @@
 ### Hi there 👋
-![https://card.exophase.com/2/0/129034.png?1640596912?28344217]()
+![](https://card.exophase.com/2/0/129034.png?1640596912?28344217)
 
 <!--
 **negbook/negbook** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
